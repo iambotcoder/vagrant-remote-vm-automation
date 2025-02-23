@@ -76,7 +76,7 @@ Repeat for `web02` and `web03`.
 ### 4⃣ Resolve SSH Issues for `web03`
 Edit `/etc/ssh/sshd_config` on `web03`:
 ```bash
-sudo nano /etc/ssh/sshd_config
+sudo vim /etc/ssh/sshd_config
 ```
 Modify this line:
 ```plaintext
