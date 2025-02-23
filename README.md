@@ -69,7 +69,7 @@ ssh vagrant@web01
 sudo useradd devops
 sudo passwd devops
 sudo visudo
- add - devops ALL=(ALL) NOPASSWD: ALL
+- devops ALL=(ALL) NOPASSWD: ALL (add the line in configuration file.)  
 ```
 Repeat for `web02` and `web03`.
 
