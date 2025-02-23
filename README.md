@@ -68,7 +68,7 @@ For each web server, execute:
 ssh vagrant@web01
 sudo useradd devops
 sudo passwd devops
-sudo visudo  # Add: devops ALL=(ALL) NOPASSWD: ALL
+sudo visudo : Add: devops ALL=(ALL) NOPASSWD: ALL
 ```
 Repeat for `web02` and `web03`.
 
