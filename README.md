@@ -8,13 +8,13 @@ This project automates the setup of multiple virtual machines using Vagrant and 
 ---
 
 ## 📑 Table of Contents
-- [Prerequisites](#prerequisites) 🔑
-- [Architecture](#architecture) 🗺️
-- [Setup & Installation](#setup-and-installation) 🛠️
-- [Vagrant Setup](#vagrant-setup) 🐳
-- [Key-Based Authentication](#key-based-authentication) 🔑
-- [Cleaning Up Resources](#cleaning-up-resources) 🧹
-- [Conclusion](#conclusion) ✅
+- [Prerequisites](#-prerequisites) 🔑
+- [Architecture](#-architecture) 🗺️
+- [Setup & Installation](#-setup-and-installation) 🛠️
+- [Vagrant Setup](#-vagrant-setup) 🐳
+- [Key-Based Authentication](#-key-based-authentication) 🔑
+- [Cleaning Up Resources](#-cleaning-up-resources) 🧹
+- [Conclusion](#-conclusion) ✅
 
 ---
 
