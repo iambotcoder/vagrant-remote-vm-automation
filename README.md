@@ -53,7 +53,7 @@ vagrant up
 
 ### 2⃣ Modify `/etc/hosts` on scriptbox:
 ```bash
-sudo nano /etc/hosts
+sudo vim /etc/hosts
 ```
 Add the following lines:
 ```plaintext
